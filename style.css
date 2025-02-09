@@ -1,20 +1,12 @@
-h1{
-    color:bisque
-}
 *{
-    border:solid
+    background-color: rgb(26, 14, 0);
 }
-.header{
-    background-color: aliceblue;
-    display: flex;
-    justify-content: space-between;
+h1{
+    color:rgb(255, 145, 10)
 }
-.grid{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-}
-.footer{
-    display: flex;
-    justify-content: flex-end;
+header{
+    color:chocolate;
+    text-align: center;
+    font-family: './fonts/Doto';
+
 }
